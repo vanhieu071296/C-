@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\project\c++\hàm\hàm\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Hàm.vcxproj -> D:\Project\C++\Hàm\Debug\Hàm.exe
+  Hàm.vcxproj -> D:\Project\C++\Hàm\Debug\Hàm.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+﻿  lyThuyetDoThi1.cpp
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(22): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(224): warning C4101: 'chutrinh': unreferenced local variable
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(224): warning C4101: 'duyetDT': unreferenced local variable
+d:\project\c++\ltdt\lythuyetdothi1\lythuyetdothi1.cpp(225): warning C4101: 's': unreferenced local variable
+  lyThuyetDoThi1.vcxproj -> D:\Project\C++\LTDT\Debug\lyThuyetDoThi1.exe
+  lyThuyetDoThi1.vcxproj -> D:\Project\C++\LTDT\Debug\lyThuyetDoThi1.pdb (Partial PDB)

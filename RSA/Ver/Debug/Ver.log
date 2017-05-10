@@ -1,0 +1,4 @@
+﻿  ver.cpp
+d:\project\c++\rsa\ver\ver.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  Ver.vcxproj -> D:\Project\C++\RSA\Debug\Ver.exe
+  Ver.vcxproj -> D:\Project\C++\RSA\Debug\Ver.pdb (Partial PDB)

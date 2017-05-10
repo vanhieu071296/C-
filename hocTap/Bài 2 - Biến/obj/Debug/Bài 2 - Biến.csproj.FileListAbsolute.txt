@@ -1,0 +1,6 @@
+D:\Project\C++\hocTap\Bài 2 - Biến\bin\Debug\Bài 2 - Biến.exe.config
+D:\Project\C++\hocTap\Bài 2 - Biến\bin\Debug\Bài 2 - Biến.exe
+D:\Project\C++\hocTap\Bài 2 - Biến\bin\Debug\Bài 2 - Biến.pdb
+D:\Project\C++\hocTap\Bài 2 - Biến\obj\Debug\Bài 2 - Biến.csprojResolveAssemblyReference.cache
+D:\Project\C++\hocTap\Bài 2 - Biến\obj\Debug\Bài 2 - Biến.exe
+D:\Project\C++\hocTap\Bài 2 - Biến\obj\Debug\Bài 2 - Biến.pdb

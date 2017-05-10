@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\project\c++\baitap\chuong3\source.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\project\c++\baitap\chuong3\source.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Chuong3.vcxproj -> D:\Project\C++\BaiTap\Debug\Chuong3.exe
+  Chuong3.vcxproj -> D:\Project\C++\BaiTap\Debug\Chuong3.pdb (Partial PDB)
